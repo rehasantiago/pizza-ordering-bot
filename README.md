@@ -7,6 +7,7 @@ Steps to use the bot<br/>
 4. Add toppings if you need any
 5. Add count of pizzas
 6. Enter your name, phone number and address (please enter a valid 10 digit phone number and address)
+7. You can also ask it the status of your pizza
 
 ## UI of the app
 ![UI of the image](images/UI.png)
