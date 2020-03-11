@@ -8,3 +8,8 @@ Steps to use the bot<br/>
 5. Add count of pizzas
 6. Enter your name, phone number and address (please enter a valid 10 digit phone number and address)
 
+## UI of the app
+![UI of the image](images/UI.png)
+
+## Architecture of the project
+![Architecture of the project](images/Pizza_ordering_bot.png)
