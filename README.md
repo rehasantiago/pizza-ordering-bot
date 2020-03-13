@@ -1,4 +1,5 @@
-# pizza-ordering-bot
+# pizza-ordering-bot <br/>
+A simple pizza ordering chatbot
 
 Steps to use the bot<br/>
 1. Select your type of pizza. (veg or non-veg)
